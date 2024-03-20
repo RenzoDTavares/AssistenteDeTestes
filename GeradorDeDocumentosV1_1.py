@@ -495,7 +495,7 @@ def add_attachment_to_work_item(work_item_id, attachment_url, url):
 janela = ThemedTk(theme="arc")
 janela.geometry("565x455")
 janela.iconbitmap("ey.ico")
-janela.title("Gerador de Documentos")
+janela.title("Gerador de KKKKKKKKKK")
 
 style = ttk.Style()
 style.configure("TEntry", padding=(5, 4, 5, 4), relief="flat")
